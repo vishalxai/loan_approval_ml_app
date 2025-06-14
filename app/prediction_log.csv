@@ -1,0 +1,2 @@
+Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,TotalIncome,Log_TotalIncome,Property_Area_Semiurban,Property_Area_Urban,Prediction
+1,1,1,1,1,7500,3000,10000,365,1.0,10500,9.259225769705994,0,1,1
