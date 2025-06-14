@@ -6,10 +6,8 @@ A complete end-to-end **Machine Learning project** that predicts whether a loan 
 
 ## 🚀 Demo
 
-📍 Streamlit App *(local)*  
-📍 GitHub Repo: [Your GitHub Repo Link]
-
----
+📍 Streamlit App (_local_)  
+📍 GitHub Repo: [Loan Approval GitHub](https://github.com/vishalxai/loan_approval_ml_app)
 
 ## 📌 Problem Statement
 
