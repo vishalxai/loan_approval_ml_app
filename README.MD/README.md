@@ -75,14 +75,17 @@ Also logged in prediction_log.csv with each session’s inputs + prediction.
 ---
 
 📸 App Screenshots
+---
+
+📸 App Screenshots
 
 **▶️ Input Form:**
 
-![App Input](Loan_approval_app_input.png)
+<img src="Loan_approval_app_input.png" alt="Input Form Screenshot" width="600"/>
 
 **✅ Prediction Output:**
 
-![Prediction Output](Loan_approval_app_prediction.png)
+<img src="Loan_approval_app_prediction.png" alt="Prediction Screenshot" width="600"/>
 
 ## 👨‍💻 Author
 
