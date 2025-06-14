@@ -72,6 +72,13 @@ cd loan-approval-predictor
 
 Also logged in prediction_log.csv with each session’s inputs + prediction.
 ---
+## 📸 App Screenshots
+
+### 🧾 Input Form:
+<img src="./Loan_approval_app_input.png" alt="Input Screenshot" width="600"/>
+
+### ✅ Prediction Output:
+<img src="./Loan_approval_app_prediction.png" alt="Prediction Screenshot" width="600"/>
 
 ## 👨‍💻 Author
 
